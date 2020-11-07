@@ -1,3 +1,3 @@
 # shuming's blog
 
-shuming.site
+博客地址：shuming.site

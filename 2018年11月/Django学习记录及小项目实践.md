@@ -1,12 +1,8 @@
----
-title: Django学习记录及小项目
-date: 2018-11-09 11:40:20
-tags:
-    - Python
-    - Django
----
+# Django学习记录以及小项目实践
 
-# Django学习记录以及相关的小项目实践
+Django学习记录以及小项目实践
+
+项目地址：https://github.com/shuming9886/Django_sinacrawler
 
 ## 前言
 
@@ -55,5 +51,3 @@ mysite/
 - *settings.py*：该Django项目的设置或配置。查看并理解这个文件可用的设置类型及其默认值。
 
 - *urls.py*：Django项目的URL设置。可视其为你的django网站的目录。
-
-## 未完待续。。
